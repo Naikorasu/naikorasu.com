@@ -2,15 +2,15 @@
 /**
  * Created by PhpStorm.
  * User: naikorasu
- * Date: 29/03/19
- * Time: 16.23
+ * Date: 12/05/19
+ * Time: 23.28
  */
-
 ?>
 
-<header id="header" class="alt">
-    <a href="index.php" class="logo"><strong>Naikorasu</strong> <span>Nic</span></a>
-    <nav>
-        <a href="#menu">Menu</a>
-    </nav>
-</header>
+<head>
+    <title>Naikorasu</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
